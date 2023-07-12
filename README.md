@@ -1,4 +1,4 @@
-//- 👋 Hi, I’m @Susie71Triggers are another way of inserting shortcuts. This one is named “-triggers” but you can name them however you like. Try typing out -triggers to see what happens 🔮
+////- 👋 Hi, I’m @Susie71Triggers are another way of inserting shortcuts. This one is named “-triggers” but you can name them however you like. Try typing out -triggers to see what happens 🔮
 
 - 👀 I’m interested
 - 👀 I’m interested in ...
